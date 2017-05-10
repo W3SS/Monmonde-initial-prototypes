@@ -9,6 +9,29 @@ Planned release date: December 2031
 
 Last revision: 10 May 2017
 
+# Table of Contents
+
+   * [Overview](#overview)
+      * [The League](#the-league)
+      * [Inter-location travel](#inter-location-travel)
+      * [Locations](#locations)
+         * [Settlements](#settlements)
+         * [Exploration zones](#exploration-zones)
+      * [Mons](#mons)
+      * [Battle system](#battle-system)
+   * [Prototypes](#prototypes)
+   * [Utilities](#utilities)
+   * [Random notes](#random-notes)
+        * [Classes](#classes)
+        * [Trainers](#trainers)
+        * [Exploration zones](#exploration-zones-1)
+        * [Gyms](#gyms)
+        * [Trainer class](#trainer-class)
+        * [Competitions](#competitions)
+            * [World Championship](#world-championship)
+            * [Continental and National championships](#continental-and-national-championships)
+        * [Competition battles](#competition-battles)
+
 # Overview
 
 *TL;DR: A single-player Pokémon(-like) game[G1] with emphasis on free exploration[G3] of "real" world[G2], catching creatures[G1;G2;G3], training them[G1] and finally climbing the ladder of a simulated[G4] competitive Pokémon(-like) battling world.*
@@ -94,7 +117,7 @@ Additional points:
 
 * I'm a huge fan of trying something non turn-based. The matter requires a lot of research and more involved prototypes.
 
-[![](images/screenshots/min/proto-mp-b-1.gif)](images/screenshots/proto-mp-b-1.webm?raw=true)
+[![](images/screenshots/min/proto-mp-b-1.gif)](https://a.pomf.cat/puezza.webm)
 
 *Prototype MP-B: battle*
 
